@@ -1,0 +1,30 @@
+.comment-text {
+    border-bottom: 1px solid #ccc;
+}
+.comment-list {
+    background-color: #f8f9fa;
+    padding: 10px 10px 10px 20px;
+}
+.post-like {
+    background-color: transparent;
+    border: 0;
+}
+.post-like:visited, .post-like:active, .post-like:focus{
+    border: 0;
+    outline: none;
+}
+.edica-footer {
+    border-top-style: solid;
+    background-color: white;
+    color: black;
+    margin-top: 50px;
+    padding-top: 0;
+}
+.section-category-list {
+    margin: 0 auto;
+}
+.section-category-list li {
+    /*margin: 0 auto;*/
+    /*border-style: solid;*/
+    padding: 10px 10px 10px 0;
+}
